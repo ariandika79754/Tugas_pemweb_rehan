@@ -1,0 +1,57 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #afaaaa;
+    text-align: center;
+    padding: 50px;
+    background: url(Kantor.webp);
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  
+  main {
+    padding: 25px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    background-color: #afaaaa;
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  footer {
+    background-color:#afaaaa;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+  }
+  
